@@ -7,8 +7,7 @@ public class TestClass {
 		System.out.println("Hello");
 		System.out.println("Hii");
 		System.out.println("Hii this is new");
-		System.out.println("Hii this is another");
-
+		
 		System.out.println("welcome");
 		
 	}
